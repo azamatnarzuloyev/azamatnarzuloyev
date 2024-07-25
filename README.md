@@ -5,28 +5,6 @@
 </h1>
 
 <h3 align="center">Software developer </h3>
-
-<br/>
-
-<div align="center">
- 
- 🔭 I’m currently working on **Python developer with 2 years of experience in finance and
-fintech. Well-acquainted with database engineering, data
-warehouses, and data processing. Knowledgeable in Python
-frameworks related to data such as SciPy, NumPy,
-Matplotlib. Data analyst. I am a highly motivated software
-engineer looking for an opportunity to put my knowledge
-into use. Creative thinking, problem-solving, teamwork and
-technical skills are my qualities.**
- 
- 🌱 I’m currently learning **vuejs**
-
- 💬 Ask me about **python   [here](https://github.com/azamatnarzuloyev)**
-
- ⚡ 
- 
- </div>
- 
 <div align="center"> 
   <a href="#">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
